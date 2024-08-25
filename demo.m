@@ -5,3 +5,5 @@ data = ...
       9     8     7     6     2];
 
 out = solidHistogram(data);
+
+legend('series 1','series 2','series 3','series 4')
